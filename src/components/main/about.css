@@ -1,0 +1,34 @@
+.about {
+    /* height: 500px; */
+    /* padding: 3rem 10rem; */
+    display: flex;
+    justify-content: space-around;
+    /* background-color: blue; */
+}
+
+.aboutcol1
+{
+    border-color: transparent;
+}
+.aboutcol2 .Card
+{
+    border-color: transparent;
+}
+/* .card-img-top
+{
+    border-color: transparent;
+
+} */
+
+.aboutcol2
+{
+    border-color: transparent;
+    text-align: left;
+    font-size: 1rem;
+}
+
+.aboutcol2 .card-title{
+    color: #B76269;
+    text-decoration: underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}

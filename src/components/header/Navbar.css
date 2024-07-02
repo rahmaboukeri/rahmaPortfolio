@@ -1,0 +1,48 @@
+/* .div-navbar{
+    display: flex;
+    justify-content:center;
+    border-radius: 15px;
+}
+
+.col{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.logo-brand{
+    width: 10vh;
+}
+
+.container{
+    border-radius: 20px;
+    background-color: rgb(255, 252, 248);
+    color: rgb(134, 28, 28);
+    margin-top: 20px;
+}
+
+.Nav :hover{
+    border-radius: 15px;
+    background-color: bisque;
+}
+ */
+
+ .lgo{
+    width: 18vh;
+ 
+ }
+
+ .barNav{
+    background-color:#10141D ;
+ }
+
+.nav-link
+  {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight:600;
+ }
+ .navb a:hover
+ {
+    color: #fcc500;
+    text-decoration:underline;
+ }

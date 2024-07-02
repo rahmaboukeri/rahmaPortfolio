@@ -1,0 +1,52 @@
+.contact{
+    padding: 2rem;
+    box-shadow: 2px 2px 12px black;
+}
+
+.contact h5{
+    text-align: left;
+    padding: 2rem 0rem;
+    /* text-decoration: underline; */
+    /* text-decoration-color: #b76269; */
+    text-decoration-thickness: 3px;
+    color: black;
+
+}
+
+.contact > .Form{
+    padding: 3rem;
+}
+.Contactcol2 .card{
+    padding-top: 0;
+    display: flex;
+    text-align: left;
+    border: none;
+    font-size: 20px;
+}
+
+.contc {
+    padding-left: 3rem;
+}
+
+.Contactcol2 span{
+        font-size: 12px;
+        font-weight: 500;
+        padding: 0px;
+
+}
+.Contactcol2 a{
+    color: black;
+    text-decoration: none;
+}
+.cardsoc {
+    width: 7rem;
+    display: flex;
+    justify-content: space-around;
+}
+.cardsoc a{
+    color: black;
+
+}
+.cardsoc :hover{
+        color: #fcc500;
+}

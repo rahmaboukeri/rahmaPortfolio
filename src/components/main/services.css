@@ -1,0 +1,35 @@
+.services {
+    /* display: flex;
+    justify-content: space-around; */
+    /* background-color: black; */
+    box-shadow: 1px 2px 15px black ;
+    /* padding: 2rem ; */
+}
+
+.services .row {
+    padding: 1rem;
+
+}
+.services .card {
+
+    width: '18rem'; 
+    transition:'0.8s';
+}
+
+.services .col{
+    transition: 0.8s;
+}
+
+.services .card:hover{
+    width: 20rem;
+    box-shadow: 2px 2px 2px black;
+    font-size: 16px;
+}
+
+.services h3{
+    color: #fcc500;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: 700;
+}
+
